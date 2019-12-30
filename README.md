@@ -7,6 +7,7 @@ This small project arose from the need to generally solve one of Martin Gardner'
 
 The objective is to give two words (doublets) of the same number of letters to a person and ask that person to create a so called "word ladder" where the person starts with the initial word and by changing only one letter at a time and using valid words (each of equal length), arrive to the end word. One famous example is:
 
+```
 GRASS
 CRASS
 CRESS
@@ -15,14 +16,17 @@ TREES
 TREED
 GREED
 GREEN
+```
 
 There is an actually shorter ladder
 
+```
 GRASS
 GRAYS
 GREYS
 GREES
 GREEN
+```
 
 At least in English and Spanish, words of 4 or 5 letters are the best suited for the game.
 
