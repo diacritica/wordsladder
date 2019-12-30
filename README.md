@@ -30,3 +30,10 @@ I superficially approached this problem through several techniques (multidimensi
 
 I then allowed myself to explore other existing solutions and saw with delight that none other than Donald Knuth had applied an identical approach and derived extra knowledge of the English vocabulary from it.
 
+## Thanks
+
+https://github.com/dwyl/english-words/blob/master/words_alpha.txt for words_en.txt
+
+## Future plans
+
+Develop a simple Flask + Svelte back/front app to allow people to play the game online and check valid answers
