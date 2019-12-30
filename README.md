@@ -26,7 +26,7 @@ GREEN
 
 At least in English and Spanish, words of 4 or 5 letters are the best suited for the game.
 
-I superficially approached this problem through several techniques (multidimensional vector space, backtracking, etc) but it was while driving my car to my family's countryside house that it finally struck me, graph theory hold the answer. Words are nodes, and edges connect words that only differ in one letter, making a path between two words a word ladder and the shortest path between two words, the best solution available. A simple undirected graph workd beautifully.
+I superficially approached this problem through several techniques (multidimensional vector space, backtracking, etc) but it was while driving my car to my family's countryside house that it finally struck me, graph theory hold the answer. Words where graph nodes, and edges connected words that would only differ in one letter. A path between two words is therefore a word ladder and the shortest path between two words the best solution available for such word ladder. A simple undirected graph worked beautifully.
 
 I then allowed myself to explore other existing solutions and saw with delight that none other than Donald Knuth had applied an identical approach and derived extra knowledge of the English vocabulary from it.
 
