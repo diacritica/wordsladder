@@ -17,7 +17,8 @@ Options:
   --help                   Show this message and exit.
 ```
 
-- Just run ```python wl.py -ln en -s love -e dead``` to see an example
+- Just run ```python wl.py -ln en -s love -e dead``` to see a quick example
+- Also run ```python wl.py -ln en -s starter -e dessert``` to see a much more complex (and slower) example devised by the author using none other than 7 letters!
 
 ## What's behind the problem
 
