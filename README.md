@@ -1,4 +1,26 @@
 # wordsladder
+
+## How to run it
+
+- git clone or download repo
+- Create virtualenv and install requirements.txt or make sure you have click and networkx Python libraries installed
+- Run ```python wl.py --help```
+- You will get
+```Usage: wl.py [OPTIONS]
+
+Options:
+  -lt, --letters INTEGER   Number of letters (program might try to infer).
+                           [default: 4]
+  -ln, --language [en|es]  Language dictionary en|es.  [default: en]
+  -s, --start TEXT         Initial word.  [default: love]
+  -e, --end TEXT           Final word.  [default: dead]
+  --help                   Show this message and exit.
+```
+
+- Just run ```python wl.py -ln en -s love -e dead``` to see an example
+
+## What's behind the problem
+
 Graph theory solution to Martin Gardner's words games inspired by Lewis Carroll's word ladder game
 
 See https://en.wikipedia.org/wiki/Word_ladder for a reference to the game rules and Donald Knuth's own approach.
