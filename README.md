@@ -1,7 +1,7 @@
 # wordsladder
 Graph theory solution to Martin Gardner's words games inspired by Lewis Carroll's word ladder game
 
-See https://en.wikipedia.org/wiki/Word_ladder for a referente to the game rules and Donald Knuth's own approach.
+See https://en.wikipedia.org/wiki/Word_ladder for a reference to the game rules and Donald Knuth's own approach.
 
 This small project arose from the need to generally solve one of Martin Gardner's suggested word riddles in his book "Martin Gardner. New Mathematical Diversions" (see https://www.academia.edu/9675632/Martin_Gardner._New_Mathematical_Diversions_More_Puzzles_Problems_Games_and_Other_Mathematical_Diversions_1995_) In particular, the word doublets from Lewis Carroll (see chapter 4 of cited book).
 
