@@ -1,1 +1,4 @@
+Click==7.0
+decorator==4.4.1
 networkx==2.4
+
