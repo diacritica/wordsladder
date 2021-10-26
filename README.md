@@ -22,7 +22,7 @@ Options:
 
 ## What's behind the problem
 
-**wordladder** is a graph theory based solution to Lewis Carroll's word ladder game.
+**wordsladder** is my personal graph theory based solution to Lewis Carroll's word ladder game.
 
 See https://en.wikipedia.org/wiki/Word_ladder for a reference to the game rules and Donald Knuth's own approach.
 
